@@ -1,0 +1,320 @@
+{
+  "laboratorio": {
+    "nombre": "Laboratorio de Espectroscopía Óptica",
+    "sigla": "LEO",
+    "institucion": "Escuela Politécnica Nacional",
+    "ciudad": "Quito, Ecuador",
+    "descripcion_corta": "Desarrollamos y aplicamos técnicas avanzadas de espectroscopía láser y espectrometría de masas para el estudio de la materia, con aplicaciones en ciencia de materiales, análisis ambiental y nanociencia.",
+    "descripcion_larga": "El Laboratorio de Espectroscopía Óptica (LEO) del Departamento de Física de la Escuela Politécnica Nacional (EPN) investiga la interacción entre la radiación electromagnética y la materia. Nuestro trabajo abarca desde la espectrometría de masas MALDI-TOF hasta la espectroscopía de desgaste inducida por láser (LIBS), resonancia de plasmón superficial (SPR), efecto de lente térmica, dispersión dinámica de luz (DLS), multispectral imaging, fluorescencia láser y análisis de gases en medios dispersivos (GASMAS). Colaboramos activamente con grupos de investigación en Europa, América Latina y varias otras regiones del mundo.",
+    "estadisticas": {
+      "publicaciones": "20+",
+      "investigadores": "6",
+      "proyectos": "4",
+      "años": "20+"
+    },
+    "contacto": {
+      "email": "cesar.costa@epn.edu.ec",
+      "edificio": "Departamento de Física",
+      "direccion": "Ladrón de Guevara E11-253, Quito",
+      "telefono": "+593 2 2567846 ext. 1713",
+      "web": "www.epn.edu.ec"
+    },
+    "patrocinadores": [
+      "Escuela Politécnica Nacional",
+      "ERASMUS+",
+      "SENESCYT",
+      "Alexander von Humboldt Foundation",
+      "Red NanoAndes."
+    ],
+    "logo": "img/logo.jpg"
+  },
+  "noticias": [
+    {
+      "id": 1,
+      "tag": "Investigación",
+      "titulo": "LIBS aplicado al análisis de cerámicas arqueológicas ecuatorianas",
+      "descripcion": "Nuestro grupo utiliza LIBS para caracterizar la composición elemental de objetos de patrimonio cultural, contribuyendo a la arqueometría en Ecuador.",
+      "fecha": "2024",
+      "imagen": ""
+    },
+    {
+      "id": 2,
+      "tag": "Red internacional",
+      "titulo": "Participación activa en la red NanoAndes",
+      "descripcion": "El laboratorio forma parte de NanoAndes, red regional que impulsa el desarrollo de la nanociencia en Ecuador, Colombia, Perú, Venezuela, Bolivia y Argentina.",
+      "fecha": "2024",
+      "imagen": ""
+    },
+    {
+      "id": 3,
+      "tag": "Docencia",
+      "titulo": "Cursos de posgrado en espectroscopía y física experimental",
+      "descripcion": "El Dr. Costa imparte cursos de posgrado y pregrado en física, espectroscopía láser y técnicas analíticas para estudiantes de ingeniería y física.",
+      "fecha": "2025",
+      "imagen": ""
+    }
+  ],
+  "investigacion": [
+    {
+      "id": 1,
+      "titulo": "Espectroscopía de Desgaste Inducida por Láser (LIBS)",
+      "descripcion": "Aplicamos LIBS para determinar la composición elemental de arcillas, fragmentos arqueológicos, aluminio de reciclaje, pigmentos inorgánicos en obras de arte patrimonial y metales disueltos en agua. Realizamos también estudios fundamentales de la dinámica del plasma LIBS.",
+      "tags": [
+        "LIBS",
+        "Análisis elemental",
+        "Patrimonio cultural",
+        "Plasma láser"
+      ],
+      "imagen": "img/investigacion/investigacion-1773942382058.jpeg"
+    },
+    {
+      "id": 3,
+      "titulo": "Fluorescencia Láser y Análisis de Gases (GASMAS)",
+      "descripcion": "Implementamos sistemas portátiles de fluorescencia inducida por láser (LIF) con fibra óptica. Aplicamos GASMAS para análisis de gases en medios dispersivos como frutas y rocas volcánicas.",
+      "tags": [
+        "LIF",
+        "GASMAS",
+        "Fibra óptica",
+        "Gases"
+      ],
+      "imagen": ""
+    },
+    {
+      "id": 4,
+      "titulo": "Nanociencia y Nanotecnología",
+      "descripcion": "Participamos en redes nacionales e internacionales de nanociencia. A través de GETnano y NanoAndes, aportamos experiencia experimental para identificar problemas de interés en simulaciones de nanosistemas moleculares.",
+      "tags": [
+        "NanoAndes",
+        "GETnano",
+        "Nanosistemas"
+      ],
+      "imagen": ""
+    },
+    {
+      "id": 6,
+      "titulo": "Resonancia de plasmón superficial (SPR)",
+      "descripcion": "Hemos desarrollado trabajo en el ámbito de sensores ópticos basados en resonancia de plasmones superficiales (SPR), enfocado en la detección de variaciones de concentración de analitos en regímenes de baja cantidad. Nuestra investigación abarca tanto los fundamentos físicos de la excitación de plasmones en interfaces metal-dieléctrico como la implementación y análisis de configuraciones experimentales para monitorear cambios en el índice de refracción del medio. Asimismo, hemos evaluado parámetros clave como la longitud de onda, el ángulo de incidencia y las propiedades ópticas de los materiales, con el objetivo de optimizar la sensibilidad y el límite de detección del sistema, destacando su potencial en aplicaciones de biosensado y diagnóstico biomédico.",
+      "tags": [
+        "SPR - espectroscipía - plasmónica"
+      ],
+      "imagen": "img/investigacion/investigacion-1773941534202.jpeg"
+    },
+    {
+      "id": 7,
+      "titulo": "Efecto de lente térmica",
+      "descripcion": "En nuestra línea de investigación empleamos el efecto de lente térmica resuelto en frecuencia como una técnica fototérmica no invasiva para la caracterización de propiedades térmicas en muestras líquidas. A partir de la modulación de un haz láser excitador, inducimos gradientes de temperatura que generan variaciones locales del índice de refracción, produciendo una lente térmica cuya respuesta dinámica es analizada mediante detección fototérmica en el dominio de la frecuencia. El estudio de la amplitud y fase de la señal en función de la frecuencia nos permite modelar la difusión de calor en el medio y determinar la difusividad térmica, a partir de la cual obtenemos la conductividad térmica. Este enfoque resulta particularmente adecuado para líquidos y nanosuspensiones, debido a su alta sensibilidad, bajo requerimiento de volumen y capacidad de medir sin contacto directo, lo que lo posiciona como una herramienta robusta en la caracterización térmica dentro de la espectroscopía fototérmica.",
+      "tags": [
+        "Nanosuspensiones - lente térmica - óptica"
+      ],
+      "imagen": "img/investigacion/investigacion-1773941762996.jpeg"
+    },
+    {
+      "id": 8,
+      "titulo": "Dispersión dinámica de luz",
+      "descripcion": "Utilizamos la dispersión dinámica de la luz como una técnica óptica no invasiva para la determinación del tamaño de partículas en nanosuspensiones. A partir del análisis de las fluctuaciones temporales de la luz dispersada, originadas por el movimiento browniano de las partículas, evaluamos la función de autocorrelación de la intensidad para extraer el coeficiente de difusión traslacional. Mediante la relación de ecuación de Stokes-Einstein, convertimos este coeficiente en un radio hidrodinámico característico, permitiendo así estimar la distribución de tamaños en el sistema. Este enfoque es especialmente adecuado para sistemas coloidales y nanosuspensiones, debido a su alta sensibilidad, rapidez de medición y capacidad de caracterizar partículas en el rango nanométrico sin requerir preparación compleja de la muestra.",
+      "tags": [
+        "DLS - laser - optica"
+      ],
+      "imagen": "img/investigacion/investigacion-1773942234903.jpeg"
+    }
+  ],
+  "miembros": [
+    {
+      "id": 1,
+      "tipo": "activo",
+      "nombre": "César Costa Vera",
+      "iniciales": "CCV",
+      "categoria": "investigador",
+      "rol": "Investigador Principal · Jefe de Laboratorio",
+      "especialidad": "LIBS · MALDI-TOF · Espectroscopía láser · Nanociencia",
+      "año_inicio": 2000,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "0000-0001-5242-1892",
+      "foto": "img/miembros/miembro-1773868955956.jpg"
+    },
+    {
+      "id": 2,
+      "tipo": "activo",
+      "nombre": "Juan Molina",
+      "iniciales": "JM",
+      "categoria": "posgrado",
+      "rol": "Estudiante de Doctorado",
+      "especialidad": "LIBS",
+      "año_inicio": 2013,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "0000-0002-1364-8960",
+      "foto": "img/miembros/miembro-1773869190864.jpg"
+    },
+    {
+      "id": 3,
+      "tipo": "activo",
+      "nombre": "William Ibarra",
+      "iniciales": "WI",
+      "categoria": "pregrado",
+      "rol": "Pasante",
+      "especialidad": "Multispectral Imaging",
+      "periodo": "",
+      "posicion_actual": "",
+      "orcid": "",
+      "foto": "",
+      "año_inicio": null,
+      "año_fin": null
+    },
+    {
+      "id": 4,
+      "tipo": "activo",
+      "nombre": "Andrea Paladines",
+      "iniciales": "AP",
+      "categoria": "investigador",
+      "rol": "Tecnico de investigacion",
+      "especialidad": "",
+      "año_inicio": 2024,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "",
+      "foto": "img/miembros/miembro-1773938191821.jpg"
+    },
+    {
+      "id": 5,
+      "tipo": "activo",
+      "nombre": "Ricardo Araguillin",
+      "iniciales": "RA",
+      "categoria": "posgrado",
+      "rol": "Estudiante de Doctorado",
+      "especialidad": "Surface Plasmon Resonance (SPR)",
+      "año_inicio": 2023,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "0000-0003-1322-2254",
+      "foto": "img/miembros/miembro-1773938203942.jpeg"
+    },
+    {
+      "id": 6,
+      "tipo": "alumni",
+      "nombre": "Alba M. Jumbo Nogales",
+      "iniciales": "AJ",
+      "categoria": "investigador",
+      "rol": "",
+      "especialidad": "X-rays - nanostructures - plasmonics - spectroscopy - lasers",
+      "año_inicio": 2016,
+      "año_fin": 2019,
+      "posicion_actual": "Postdoctoral researcher, Max Planck Institute for the Structure and Dynamics of Matter",
+      "orcid": "0000-0002-8556-2891",
+      "foto": "img/miembros/miembro-1773937100784.jpg"
+    },
+    {
+      "id": 7,
+      "tipo": "alumni",
+      "nombre": "Angel Mendez Cevallos",
+      "iniciales": "AM",
+      "categoria": "investigador",
+      "rol": "",
+      "especialidad": "Surface Plasmon Resonance (SPR) - Plasmonics ",
+      "año_inicio": 2023,
+      "año_fin": 2025,
+      "posicion_actual": "Técnico Docente, Escuela Politécnica Nacional",
+      "orcid": "0009-0000-0604-909X",
+      "foto": "img/miembros/miembro-1773938225214.jpg"
+    },
+    {
+      "id": 8,
+      "tipo": "alumni",
+      "nombre": "Juan Javier Naranjo",
+      "iniciales": "JN",
+      "categoria": "investigador",
+      "rol": "",
+      "especialidad": "Quantum computing - quantum algorithms ",
+      "año_inicio": 2023,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "0009-0007-4456-7083",
+      "foto": "img/miembros/miembro-1773938240834.jpg"
+    },
+    {
+      "id": 9,
+      "tipo": "activo",
+      "nombre": "Carlos Andrade",
+      "iniciales": "CA",
+      "categoria": "pregrado",
+      "rol": "Pasante",
+      "especialidad": "Quantum cryptography",
+      "año_inicio": 2025,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "",
+      "foto": ""
+    },
+    {
+      "id": 10,
+      "tipo": "alumni",
+      "nombre": "Ana Terán",
+      "iniciales": "AT",
+      "categoria": "investigador",
+      "rol": "",
+      "especialidad": "Thermal lensing - Spectrophotometry - Nanomaterials characterization - Optoelectronics",
+      "año_inicio": 2022,
+      "año_fin": 2024,
+      "posicion_actual": "",
+      "orcid": "0009-0008-1209-4055",
+      "foto": "img/miembros/miembro-1773938761456.jpeg"
+    },
+    {
+      "id": 11,
+      "tipo": "alumni",
+      "nombre": "Camilo Díaz",
+      "iniciales": "CD",
+      "categoria": "posgrado",
+      "rol": "",
+      "especialidad": "Spectroscopu - Photonics ",
+      "año_inicio": 2016,
+      "año_fin": 2018,
+      "posicion_actual": "Physics PhD candidate at Centro de Investigaciones Ópticas de La Plata (CIOp-UNLP)",
+      "orcid": "",
+      "foto": "img/miembros/miembro-1773940382240.jpg"
+    },
+    {
+      "id": 12,
+      "tipo": "alumni",
+      "nombre": "Raquel Pincay",
+      "iniciales": "RP",
+      "categoria": "investigador",
+      "rol": "",
+      "especialidad": "LIBS",
+      "año_inicio": 202,
+      "año_fin": 2024,
+      "posicion_actual": "Teacher, LUDOTECA Highschool",
+      "orcid": "",
+      "foto": ""
+    },
+    {
+      "id": 13,
+      "tipo": "alumni",
+      "nombre": "José González",
+      "iniciales": "JG",
+      "categoria": "posgrado",
+      "rol": "",
+      "especialidad": "Dynamic Light Scattering",
+      "año_inicio": 2022,
+      "año_fin": 2025,
+      "posicion_actual": "Physics PhD stundent at Universidad Nacional de San Martin",
+      "orcid": "0009-0005-0209-4770",
+      "foto": "img/miembros/miembro-1773940697760.jpg"
+    }
+  ],
+  "publicaciones": [],
+  "proyectos": [
+    {
+      "id": 1,
+      "titulo": "Erasmus+ EU-BEGP",
+      "descripcion": "El presente proyecto, cofinanciado por la Unión Europea, tiene como objetivo principal modernizar cursos y programas del sector energético incorporando el enfoque de economía circular. Para lograrlo, se propone:\n\nEl desarrollo colaborativo de materiales digitales de aprendizaje.\n\nLa revisión entre pares como mecanismo de aseguramiento de la calidad.\n\nLa implementación de metodologías centradas en el estudiante, como el aula invertida.\n\nEl aprendizaje basado en desafíos impulsados por la industria.\n\nEl uso de laboratorios remotos.\n\nEl proyecto EU-BEGP reúne a 11 universidades de seis países diversos: Francia, España, Bolivia, Ecuador, Guatemala y Perú. Su origen se remonta a una convocatoria realizada en 2021, que dio inicio a un esfuerzo conjunto entre los socios para elaborar una propuesta integral.\n\nTras varios meses de trabajo coordinado, la propuesta fue finalizada y aprobada a finales de 2022. Este hito marcó el inicio de una iniciativa orientada a fomentar la excelencia educativa y la innovación mediante la colaboración internacional.",
+      "estado": "activo",
+      "financiador": "Programa Erasmus+ de la Unión Europea",
+      "investigadorPrincipal": "Colaboración entre instituciones",
+      "inicio": "2024",
+      "fin": "",
+      "imagen": "img/proyectos/proyecto-1773868267627.png"
+    }
+  ]
+}
