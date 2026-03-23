@@ -42,8 +42,8 @@
       "tag": "Red internacional",
       "titulo": "Participación activa en la red NanoAndes",
       "descripcion": "El laboratorio forma parte de NanoAndes, red regional que impulsa el desarrollo de la nanociencia en Ecuador, Colombia, Perú, Venezuela, Bolivia y Argentina.",
-      "fecha": "2024",
-      "imagen": ""
+      "fecha": "2025",
+      "imagen": "img/noticias/noticia-1774277091240.jpg"
     },
     {
       "id": 3,
@@ -77,18 +77,19 @@
         "Fibra óptica",
         "Gases"
       ],
-      "imagen": ""
+      "imagen": "img/investigacion/investigacion-1774277491496.png"
     },
     {
       "id": 4,
       "titulo": "Nanociencia y Nanotecnología",
-      "descripcion": "Participamos en redes nacionales e internacionales de nanociencia. A través de GETnano y NanoAndes, aportamos experiencia experimental para identificar problemas de interés en simulaciones de nanosistemas moleculares.",
+      "descripcion": "Participamos en redes nacionales e internacionales de nanociencia. A través de GETnano, NanoAndes y NANOMER aportamos experiencia experimental para identificar problemas de interés en simulaciones de nanosistemas moleculares y programas conjuntos de apoyo a posgradistas.",
       "tags": [
         "NanoAndes",
+        "NANOMER",
         "GETnano",
         "Nanosistemas"
       ],
-      "imagen": ""
+      "imagen": "img/investigacion/investigacion-1774277116063.jpg"
     },
     {
       "id": 6,
