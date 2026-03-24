@@ -302,6 +302,20 @@
       "posicion_actual": "Physics PhD stundent at Universidad Nacional de San Martin",
       "orcid": "0009-0005-0209-4770",
       "foto": "img/miembros/miembro-1773940697760.jpg"
+    },
+    {
+      "id": 14,
+      "tipo": "activo",
+      "nombre": "Emilio Vaca",
+      "iniciales": "EV",
+      "categoria": "pregrado",
+      "rol": "Pasante",
+      "especialidad": "LIDAR - Data Analysis",
+      "año_inicio": 2025,
+      "año_fin": null,
+      "posicion_actual": "",
+      "orcid": "",
+      "foto": ""
     }
   ],
   "publicaciones": [],
