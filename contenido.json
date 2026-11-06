@@ -121,7 +121,7 @@
     {
       "id": 9,
       "titulo": "Lidar ",
-      "descripcion": "holaa",
+      "descripcion": "hola",
       "tags": [],
       "imagen": ""
     }
@@ -147,7 +147,7 @@
       "nombre": "Juan Molina",
       "iniciales": "JM",
       "categoria": "posgrado",
-      "rol": "Estudiante de Doctorado",
+      "rol": "Doctor sin doctorado",
       "especialidad": "LIBS",
       "año_inicio": 2013,
       "año_fin": null,
