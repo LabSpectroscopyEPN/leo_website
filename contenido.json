@@ -147,7 +147,7 @@
       "nombre": "Juan Molina",
       "iniciales": "JM",
       "categoria": "posgrado",
-      "rol": "Doctor sin doctorado",
+      "rol": "Investigador ",
       "especialidad": "LIBS",
       "año_inicio": 2013,
       "año_fin": null,
@@ -190,7 +190,7 @@
       "nombre": "Ricardo Araguillin",
       "iniciales": "RA",
       "categoria": "posgrado",
-      "rol": "En Doctorado permanente",
+      "rol": "Estudiante de doctorado",
       "especialidad": "Surface Plasmon Resonance (SPR)",
       "año_inicio": 2023,
       "año_fin": null,
@@ -322,7 +322,7 @@
       "año_fin": null,
       "posicion_actual": "",
       "orcid": "",
-      "foto": ""
+      "foto": "img/miembros/miembro-1793992919547.png"
     }
   ],
   "publicaciones": [],
