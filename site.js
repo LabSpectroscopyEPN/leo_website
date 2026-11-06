@@ -38,8 +38,8 @@ function fallback(){
     descripcion_corta:"Espectroscopía láser, LIBS y MALDI-TOF para el estudio de la materia.",
     descripcion_larga:"El LEO investiga la interacción entre la radiación y la materia.",
     estadisticas:{publicaciones:"30+",investigadores:"6",proyectos:"4",años:"30+"},
-    contacto:{email:"cesar.costa@epn.edu.ec",edificio:"Dpto. Física y Astronomía",
-      direccion:"Ladrón de Guevara E11-253",telefono:"+593 2 2567846",web:"www.epn.edu.ec"},
+    contacto:{email:"cesar.costa@epn.edu.ec",edificio:"Departamento de Física",
+      direccion:"Ladrón de Guevara E11-253",telefono:"+593 2 2567846",web:"fisica.epn.edu.ec"},
     patrocinadores:["EPN","SENESCYT","Humboldt Foundation"]},
     noticias:[],investigacion:[],proyectos:[],miembros:[],publicaciones:[]};
 }
@@ -339,7 +339,7 @@ function renderContact(){
   const L=DATA.laboratorio,C=L.contacto;
   document.getElementById('contact-wrap').innerHTML=`
     <div class="contact-block"><h4>${L.nombre}</h4><a href="mailto:${C.email}">${C.email}</a><p>${C.telefono||''}</p><p>${C.edificio}</p><p>${L.institucion}</p><p>${C.direccion}</p></div>
-    <div class="contact-block"><h4>Departamento de Física y Astronomía</h4><a href="https://${C.web}">${C.web}</a><p>${L.institucion}</p><p>${L.ciudad}</p></div>
+    <div class="contact-block"><h4>Departamento de Física</h4><a href="https://${C.web}">${C.web}</a><p>${L.institucion}</p><p>${L.ciudad}</p></div>
     <div class="contact-block"><h4>¿Te interesa unirte?</h4><p>Aceptamos estudiantes e investigadores con interés en espectroscopía óptica.</p><a href="mailto:${C.email}" style="margin-top:.8rem;color:var(--cyan);">Escríbenos →</a></div>`;
   document.getElementById('sponsors-list').innerHTML=L.patrocinadores.map(s=>`<span class="sponsor-pill">${s}</span>`).join('');
 }
