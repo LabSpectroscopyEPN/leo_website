@@ -117,6 +117,13 @@
         "DLS - laser - optica"
       ],
       "imagen": "img/investigacion/investigacion-1773942234903.jpeg"
+    },
+    {
+      "id": 9,
+      "titulo": "Lidar ",
+      "descripcion": "hola",
+      "tags": [],
+      "imagen": ""
     }
   ],
   "miembros": [
@@ -140,7 +147,7 @@
       "nombre": "Juan Molina",
       "iniciales": "JM",
       "categoria": "posgrado",
-      "rol": "Disque doctor",
+      "rol": "Estudiante de Doctorado",
       "especialidad": "LIBS",
       "año_inicio": 2013,
       "año_fin": null,
@@ -183,7 +190,7 @@
       "nombre": "Ricardo Araguillin",
       "iniciales": "RA",
       "categoria": "posgrado",
-      "rol": "En Doctorado permanente",
+      "rol": "Estudiante de Doctorado",
       "especialidad": "Surface Plasmon Resonance (SPR)",
       "año_inicio": 2023,
       "año_fin": null,
